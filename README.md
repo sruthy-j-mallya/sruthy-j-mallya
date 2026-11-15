@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Sruthy 👋
 
-<!--
-**sruthy-j-mallya/sruthy-j-mallya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Kochi, India, who enjoys building with Rails and React.
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ruby
+- TypeScript / JavaScript
+- Python
+- HTML / CSS
+
+### Stack & tools
+
+- Ruby on Rails, PostgreSQL
+- React, Vite, Tailwind CSS
+- ESLint, Prettier, RuboCop
+- Vitest, Playwright, React Testing Library
+
+🌐 [sruthyjmallya.com](https://sruthyjmallya.com)
